@@ -1,0 +1,6 @@
+database/token.json
+database/credentials.json
+.env
+__pycache__/
+*.pyc
+.vercel/
